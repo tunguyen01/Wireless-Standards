@@ -44,3 +44,11 @@ Khi chuẩn này được đưa ra, các kết nối 802.11n sẽ hỗ trợ t�
 * **Ưu điểm của 802.11n** – tốc độ nhanh và phạm vi tín hiệu tốt nhất; khả năng chịu đựng tốt hơn từ việc xuyên nhiễu từ các nguồn bên ngoài.
 
 * **Nhược điểm của 802.11n** – chuẩn vẫn chưa được ban bố, giá thành đắt hơn 802.11g; sử dụng nhiều tín hiệu có thể gây nhiễu với các mạng 802.11b/g ở gần.
+
+**802.11ac**
+
+Chuẩn Wi-Fi "hot" nhất hiện nay là 802.11ac với tốc độ tối đa lần đầu chạm ngưỡng Gigabit. Do chỉ hỗ trợ duy nhất dải tần 5GHz, 802.11ac có thể đạt tốc độ 1 GB/s, song lại có phạm vi sử dụng thấp hơn hẳn các chuẩn sử dụng dải tần 2.4GHz như 802.11n hay 802.11g.
+
+Bạn có thể theo dõi phạm vi sử dụng của các chuẩn Wi-Fi hiện nay trong hình dưới đây:
+
+<img src="http://imgur.com/EHMbe8S.png">
